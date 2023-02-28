@@ -1,0 +1,14 @@
+p{
+    font-size: 30px;
+    color: blueviolet;
+}
+#btn_scroll_top{
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    z-index: 1;
+    background-color: rgb(236, 98, 98);
+    color: white;
+}

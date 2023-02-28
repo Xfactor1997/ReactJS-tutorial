@@ -1,0 +1,28 @@
+.Content{
+    margin-top: 100px;
+    border: 1px solid blueviolet;
+    width: 350px;
+    height: 650px;
+    float: left;
+    padding: 50px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+#photo{
+    width: 350px;
+    height: 350px;
+}
+.description{
+    font-size: 20px;
+    color: blueviolet;
+}
+#btn_scroll_top{
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    z-index: 1;
+    background-color: rgb(236, 98, 98);
+    color: white;
+}

@@ -1,0 +1,44 @@
+.signup{
+    margin-top: 100px;
+}
+h1{
+    cursor: pointer;
+}
+
+#form2{
+    border: 1px solid blueviolet;
+    border-radius: 5px;
+    width: 700px;
+    padding: 40px;
+    height: 420px;
+    margin: auto;
+    background-color: aqua;
+
+}
+#form2 input[type=text],input[type=email],input[type=password],input[type=date]{
+    width: 75%;
+    height: 30px;
+    border-radius: 5px;
+    text-align: center;
+}
+#form2 input[type=submit]{
+    border-radius: 10px;
+    background-color: blueviolet;
+    color: aqua;
+    width: 200px;
+    height: 50px;
+    font-size: 25px;
+}
+p a{
+    text-decoration: none;
+}
+#btn_scroll_top{
+    height: 50px;
+    width: 50px;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    z-index: 1;
+    background-color: rgb(236, 98, 98);
+    color: white;
+}

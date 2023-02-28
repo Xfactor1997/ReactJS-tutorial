@@ -1,0 +1,19 @@
+footer{
+    border: 1px solid blueviolet;
+    clear: both;
+    margin-top: 200px;
+    padding: 30px;
+    font-size: 30px;
+    margin: auto;
+    background-color: blueviolet;
+    color: aqua;
+    width: auto;
+    height: 50px;
+}
+footer span{
+    cursor: pointer;
+}
+footer span:hover{
+    background-color: aqua;
+    color: blueviolet;
+}

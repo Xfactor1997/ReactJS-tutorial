@@ -1,0 +1,25 @@
+
+ul{
+    border: 1px solid blueviolet;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    width: 100%;
+    background-color: blueviolet;
+    
+}
+ul li{
+    margin: 40px;
+    /* float:right; */
+    display: inline-block;
+    font-size: 30px;
+}
+ul li a{
+    color: aqua;
+    text-decoration: none;
+}
+ul li a:hover{
+    background-color: aqua;
+    color: blueviolet;
+}
